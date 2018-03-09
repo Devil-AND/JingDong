@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#F3F5F7"
+    android:orientation="vertical">
+    <!--引入标题栏-->
+    <include layout="@layout/search_bar_view" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="horizontal">
+        <!--左边导航栏-->
+        <ListView
+            android:id="@+id/classifycatagory"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_weight="4"
+            android:scrollbars="none"></ListView>
+
+        <ExpandableListView
+            android:id="@+id/goodsclassify"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10sp"
+            android:layout_weight="1"
+            android:background="#ffffff"
+            android:focusable="false"
+            android:groupIndicator="@null"
+            android:scrollbars="none"></ExpandableListView>
+    </LinearLayout>
+</LinearLayout>

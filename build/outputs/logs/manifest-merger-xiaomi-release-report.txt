@@ -1,0 +1,347 @@
+-- Merging decision tree log ---
+meta-data#UMENG_CHANNEL
+INJECTED from C:\WorkSpace\AndroidWorkSpace\Android_Project1\Project2Test\jingdong\src\main\AndroidManifest.xml:88:9-90:54
+	android:value
+		INJECTED from C:\WorkSpace\AndroidWorkSpace\Android_Project1\Project2Test\jingdong\src\main\AndroidManifest.xml
+		ADDED from C:\WorkSpace\AndroidWorkSpace\Android_Project1\Project2Test\jingdong\src\main\AndroidManifest.xml:90:13-51
+	android:name
+		ADDED from C:\WorkSpace\AndroidWorkSpace\Android_Project1\Project2Test\jingdong\src\main\AndroidManifest.xml:89:13-41
+manifest
+ADDED from C:\WorkSpace\AndroidWorkSpace\Android_Project1\Project2Test\jingdong\src\main\AndroidManifest.xml:2:1-94:12
+INJECTED from C:\WorkSpace\AndroidWorkSpace\Android_Project1\Project2Test\jingdong\src\main\AndroidManifest.xml:2:1-94:12
+INJECTED from C:\WorkSpace\AndroidWorkSpace\Android_Project1\Project2Test\jingdong\src\main\AndroidManifest.xml:2:1-94:12
+INJECTED from C:\WorkSpace\AndroidWorkSpace\Android_Project1\Project2Test\jingdong\src\main\AndroidManifest.xml:2:1-94:12
+MERGED from [com.youth.banner:banner:1.4.9] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\banner-1.4.9.aar\96c5f18acc89198d008d524bd2504f37\AndroidManifest.xml:2:1-11:12
+MERGED from [com.jcodecraeer:xrecyclerview:1.3.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\xrecyclerview-1.3.2.aar\56ee64da55d0482b77b9e1cf12071620\AndroidManifest.xml:2:1-13:12
+MERGED from [com.android.support:design:23.4.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\design-23.4.0.aar\a2ac31b0c388e654062186b25a9633e6\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.0.0-alpha1.aar\5f07cd8bde2750038b78c464421f196a\AndroidManifest.xml:17:1-26:12
+MERGED from [com.facebook.fresco:fresco:0.14.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\fresco-0.14.0.aar\d69bc89d3ffecfdeff8ef7a26cd94d0f\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:animated-gif:0.14.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\animated-gif-0.14.1.aar\a27cc0147a3217dcd66535671ae568d6\AndroidManifest.xml:2:1-9:12
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\rxandroid-2.0.1.aar\0d2270fc3cb15881f39210c2bc01d7da\AndroidManifest.xml:15:1-21:12
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\7fce96b66860bb141db1027eb6eae85a\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\bea4d01008d09c5772b3ad3b63e331a4\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\bd904d5f61b2b5cb2fc4fd7b9be74724\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\cd2a1d8a3f78e3c7d522c05d7604e379\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\f37cc4a5abbebefc536333665e49709c\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\495919806767042cf1a36cfbc19035f2\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\d69eb630a57204f3e481b16933c9b797\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\86b19f019b5d1947d41383afb7265a75\AndroidManifest.xml:17:1-31:12
+MERGED from [com.facebook.fresco:animated-base:0.14.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\animated-base-0.14.1.aar\cbf075716cecf1930db07c36328e03cb\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:0.14.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\imagepipeline-0.14.1.aar\309004598d7461ebfd6d45872e752984\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:0.14.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\imagepipeline-base-0.14.1.aar\6ec3571438093dcf7c59bdb82f64de55\AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\d70b76b838c0d1de2eda560919bf9c3e\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\4941741767794280bf35c32c620c8766\AndroidManifest.xml:17:1-31:12
+MERGED from [com.facebook.fresco:drawee:0.14.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\drawee-0.14.0.aar\efcfaa38368cda0da5e6267a9b24f540\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:fbcore:0.14.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\fbcore-0.14.1.aar\7651c4bf9739c5b824a39860d33e8238\AndroidManifest.xml:2:1-9:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\de1bd464f341740e1c75936ebf70096b\AndroidManifest.xml:17:1-30:12
+INJECTED from C:\WorkSpace\AndroidWorkSpace\Android_Project1\Project2Test\jingdong\src\main\AndroidManifest.xml:2:1-94:12
+INJECTED from C:\WorkSpace\AndroidWorkSpace\Android_Project1\Project2Test\jingdong\src\main\AndroidManifest.xml:2:1-94:12
+INJECTED from C:\WorkSpace\AndroidWorkSpace\Android_Project1\Project2Test\jingdong\src\main\AndroidManifest.xml:2:1-94:12
+	package
+		ADDED from C:\WorkSpace\AndroidWorkSpace\Android_Project1\Project2Test\jingdong\src\main\AndroidManifest.xml:3:5-35
+		INJECTED from C:\WorkSpace\AndroidWorkSpace\Android_Project1\Project2Test\jingdong\src\main\AndroidManifest.xml
+		INJECTED from C:\WorkSpace\AndroidWorkSpace\Android_Project1\Project2Test\jingdong\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\WorkSpace\AndroidWorkSpace\Android_Project1\Project2Test\jingdong\src\main\AndroidManifest.xml
+		ADDED from C:\WorkSpace\AndroidWorkSpace\Android_Project1\Project2Test\jingdong\src\main\AndroidManifest.xml:2:1-94:12
+		INJECTED from C:\WorkSpace\AndroidWorkSpace\Android_Project1\Project2Test\jingdong\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\WorkSpace\AndroidWorkSpace\Android_Project1\Project2Test\jingdong\src\main\AndroidManifest.xml
+		ADDED from C:\WorkSpace\AndroidWorkSpace\Android_Project1\Project2Test\jingdong\src\main\AndroidManifest.xml:2:1-94:12
+		INJECTED from C:\WorkSpace\AndroidWorkSpace\Android_Project1\Project2Test\jingdong\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\WorkSpace\AndroidWorkSpace\Android_Project1\Project2Test\jingdong\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.WRITE_APN_SETTINGS
+ADDED from C:\WorkSpace\AndroidWorkSpace\Android_Project1\Project2Test\jingdong\src\main\AndroidManifest.xml:5:5-77
+	android:name
+		ADDED from C:\WorkSpace\AndroidWorkSpace\Android_Project1\Project2Test\jingdong\src\main\AndroidManifest.xml:5:22-74
+uses-permission#android.permission.INTERNET
+ADDED from C:\WorkSpace\AndroidWorkSpace\Android_Project1\Project2Test\jingdong\src\main\AndroidManifest.xml:7:5-67
+	android:name
+		ADDED from C:\WorkSpace\AndroidWorkSpace\Android_Project1\Project2Test\jingdong\src\main\AndroidManifest.xml:7:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\WorkSpace\AndroidWorkSpace\Android_Project1\Project2Test\jingdong\src\main\AndroidManifest.xml:8:5-79
+	android:name
+		ADDED from C:\WorkSpace\AndroidWorkSpace\Android_Project1\Project2Test\jingdong\src\main\AndroidManifest.xml:8:22-76
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\WorkSpace\AndroidWorkSpace\Android_Project1\Project2Test\jingdong\src\main\AndroidManifest.xml:10:5-80
+	android:name
+		ADDED from C:\WorkSpace\AndroidWorkSpace\Android_Project1\Project2Test\jingdong\src\main\AndroidManifest.xml:10:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\WorkSpace\AndroidWorkSpace\Android_Project1\Project2Test\jingdong\src\main\AndroidManifest.xml:11:5-81
+	android:name
+		ADDED from C:\WorkSpace\AndroidWorkSpace\Android_Project1\Project2Test\jingdong\src\main\AndroidManifest.xml:11:22-78
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from C:\WorkSpace\AndroidWorkSpace\Android_Project1\Project2Test\jingdong\src\main\AndroidManifest.xml:13:5-71
+	android:name
+		ADDED from C:\WorkSpace\AndroidWorkSpace\Android_Project1\Project2Test\jingdong\src\main\AndroidManifest.xml:13:22-68
+uses-permission#android.permission.READ_PROFILE
+ADDED from C:\WorkSpace\AndroidWorkSpace\Android_Project1\Project2Test\jingdong\src\main\AndroidManifest.xml:14:5-71
+	android:name
+		ADDED from C:\WorkSpace\AndroidWorkSpace\Android_Project1\Project2Test\jingdong\src\main\AndroidManifest.xml:14:22-68
+uses-permission#android.permission.READ_CONTACTS
+ADDED from C:\WorkSpace\AndroidWorkSpace\Android_Project1\Project2Test\jingdong\src\main\AndroidManifest.xml:15:5-72
+	android:name
+		ADDED from C:\WorkSpace\AndroidWorkSpace\Android_Project1\Project2Test\jingdong\src\main\AndroidManifest.xml:15:22-69
+application
+ADDED from C:\WorkSpace\AndroidWorkSpace\Android_Project1\Project2Test\jingdong\src\main\AndroidManifest.xml:17:5-91:19
+MERGED from [com.jcodecraeer:xrecyclerview:1.3.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\xrecyclerview-1.3.2.aar\56ee64da55d0482b77b9e1cf12071620\AndroidManifest.xml:11:5-20
+MERGED from [com.jcodecraeer:xrecyclerview:1.3.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\xrecyclerview-1.3.2.aar\56ee64da55d0482b77b9e1cf12071620\AndroidManifest.xml:11:5-20
+MERGED from [com.android.support:design:23.4.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\design-23.4.0.aar\a2ac31b0c388e654062186b25a9633e6\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:23.4.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\design-23.4.0.aar\a2ac31b0c388e654062186b25a9633e6\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\7fce96b66860bb141db1027eb6eae85a\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\7fce96b66860bb141db1027eb6eae85a\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\bea4d01008d09c5772b3ad3b63e331a4\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\bea4d01008d09c5772b3ad3b63e331a4\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\bd904d5f61b2b5cb2fc4fd7b9be74724\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\bd904d5f61b2b5cb2fc4fd7b9be74724\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\cd2a1d8a3f78e3c7d522c05d7604e379\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\cd2a1d8a3f78e3c7d522c05d7604e379\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\f37cc4a5abbebefc536333665e49709c\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\f37cc4a5abbebefc536333665e49709c\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\495919806767042cf1a36cfbc19035f2\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\495919806767042cf1a36cfbc19035f2\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\d69eb630a57204f3e481b16933c9b797\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\d69eb630a57204f3e481b16933c9b797\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\86b19f019b5d1947d41383afb7265a75\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\86b19f019b5d1947d41383afb7265a75\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\d70b76b838c0d1de2eda560919bf9c3e\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\d70b76b838c0d1de2eda560919bf9c3e\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\4941741767794280bf35c32c620c8766\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\4941741767794280bf35c32c620c8766\AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\de1bd464f341740e1c75936ebf70096b\AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\de1bd464f341740e1c75936ebf70096b\AndroidManifest.xml:24:5-28:19
+	android:supportsRtl
+		ADDED from C:\WorkSpace\AndroidWorkSpace\Android_Project1\Project2Test\jingdong\src\main\AndroidManifest.xml:23:9-35
+	android:label
+		ADDED from C:\WorkSpace\AndroidWorkSpace\Android_Project1\Project2Test\jingdong\src\main\AndroidManifest.xml:21:9-41
+	android:roundIcon
+		ADDED from C:\WorkSpace\AndroidWorkSpace\Android_Project1\Project2Test\jingdong\src\main\AndroidManifest.xml:22:9-54
+	android:icon
+		ADDED from C:\WorkSpace\AndroidWorkSpace\Android_Project1\Project2Test\jingdong\src\main\AndroidManifest.xml:20:9-45
+	android:allowBackup
+		ADDED from C:\WorkSpace\AndroidWorkSpace\Android_Project1\Project2Test\jingdong\src\main\AndroidManifest.xml:19:9-35
+	android:theme
+		ADDED from C:\WorkSpace\AndroidWorkSpace\Android_Project1\Project2Test\jingdong\src\main\AndroidManifest.xml:24:9-40
+	android:name
+		ADDED from C:\WorkSpace\AndroidWorkSpace\Android_Project1\Project2Test\jingdong\src\main\AndroidManifest.xml:18:9-30
+activity#com.project.jingdong.activities.MainActivity
+ADDED from C:\WorkSpace\AndroidWorkSpace\Android_Project1\Project2Test\jingdong\src\main\AndroidManifest.xml:26:9-34:20
+	android:theme
+		ADDED from C:\WorkSpace\AndroidWorkSpace\Android_Project1\Project2Test\jingdong\src\main\AndroidManifest.xml:28:13-44
+	android:name
+		ADDED from C:\WorkSpace\AndroidWorkSpace\Android_Project1\Project2Test\jingdong\src\main\AndroidManifest.xml:27:13-52
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\WorkSpace\AndroidWorkSpace\Android_Project1\Project2Test\jingdong\src\main\AndroidManifest.xml:29:13-33:29
+action#android.intent.action.MAIN
+ADDED from C:\WorkSpace\AndroidWorkSpace\Android_Project1\Project2Test\jingdong\src\main\AndroidManifest.xml:30:17-69
+	android:name
+		ADDED from C:\WorkSpace\AndroidWorkSpace\Android_Project1\Project2Test\jingdong\src\main\AndroidManifest.xml:30:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\WorkSpace\AndroidWorkSpace\Android_Project1\Project2Test\jingdong\src\main\AndroidManifest.xml:32:17-77
+	android:name
+		ADDED from C:\WorkSpace\AndroidWorkSpace\Android_Project1\Project2Test\jingdong\src\main\AndroidManifest.xml:32:27-74
+activity#com.tencent.tauth.AuthActivity
+ADDED from C:\WorkSpace\AndroidWorkSpace\Android_Project1\Project2Test\jingdong\src\main\AndroidManifest.xml:36:9-48:20
+	android:launchMode
+		ADDED from C:\WorkSpace\AndroidWorkSpace\Android_Project1\Project2Test\jingdong\src\main\AndroidManifest.xml:38:13-44
+	android:noHistory
+		ADDED from C:\WorkSpace\AndroidWorkSpace\Android_Project1\Project2Test\jingdong\src\main\AndroidManifest.xml:39:13-37
+	android:name
+		ADDED from C:\WorkSpace\AndroidWorkSpace\Android_Project1\Project2Test\jingdong\src\main\AndroidManifest.xml:37:13-58
+intent-filter#android.intent.action.VIEW+android.intent.category.BROWSABLE+android.intent.category.DEFAULT
+ADDED from C:\WorkSpace\AndroidWorkSpace\Android_Project1\Project2Test\jingdong\src\main\AndroidManifest.xml:40:13-47:29
+action#android.intent.action.VIEW
+ADDED from C:\WorkSpace\AndroidWorkSpace\Android_Project1\Project2Test\jingdong\src\main\AndroidManifest.xml:41:17-69
+	android:name
+		ADDED from C:\WorkSpace\AndroidWorkSpace\Android_Project1\Project2Test\jingdong\src\main\AndroidManifest.xml:41:25-66
+category#android.intent.category.DEFAULT
+ADDED from C:\WorkSpace\AndroidWorkSpace\Android_Project1\Project2Test\jingdong\src\main\AndroidManifest.xml:43:17-76
+	android:name
+		ADDED from C:\WorkSpace\AndroidWorkSpace\Android_Project1\Project2Test\jingdong\src\main\AndroidManifest.xml:43:27-73
+category#android.intent.category.BROWSABLE
+ADDED from C:\WorkSpace\AndroidWorkSpace\Android_Project1\Project2Test\jingdong\src\main\AndroidManifest.xml:44:17-78
+	android:name
+		ADDED from C:\WorkSpace\AndroidWorkSpace\Android_Project1\Project2Test\jingdong\src\main\AndroidManifest.xml:44:27-75
+data
+ADDED from C:\WorkSpace\AndroidWorkSpace\Android_Project1\Project2Test\jingdong\src\main\AndroidManifest.xml:46:17-60
+	android:scheme
+		ADDED from C:\WorkSpace\AndroidWorkSpace\Android_Project1\Project2Test\jingdong\src\main\AndroidManifest.xml:46:23-57
+activity#com.tencent.connect.common.AssistActivity
+ADDED from C:\WorkSpace\AndroidWorkSpace\Android_Project1\Project2Test\jingdong\src\main\AndroidManifest.xml:49:9-53:75
+	android:screenOrientation
+		ADDED from C:\WorkSpace\AndroidWorkSpace\Android_Project1\Project2Test\jingdong\src\main\AndroidManifest.xml:52:13-47
+	android:configChanges
+		ADDED from C:\WorkSpace\AndroidWorkSpace\Android_Project1\Project2Test\jingdong\src\main\AndroidManifest.xml:51:13-63
+	android:theme
+		ADDED from C:\WorkSpace\AndroidWorkSpace\Android_Project1\Project2Test\jingdong\src\main\AndroidManifest.xml:53:13-72
+	android:name
+		ADDED from C:\WorkSpace\AndroidWorkSpace\Android_Project1\Project2Test\jingdong\src\main\AndroidManifest.xml:50:13-69
+activity#com.project.jingdong.activities.HomePageActivity
+ADDED from C:\WorkSpace\AndroidWorkSpace\Android_Project1\Project2Test\jingdong\src\main\AndroidManifest.xml:54:9-56:47
+	android:theme
+		ADDED from C:\WorkSpace\AndroidWorkSpace\Android_Project1\Project2Test\jingdong\src\main\AndroidManifest.xml:56:13-44
+	android:name
+		ADDED from C:\WorkSpace\AndroidWorkSpace\Android_Project1\Project2Test\jingdong\src\main\AndroidManifest.xml:55:13-56
+activity#com.project.jingdong.activities.WebViewLoad
+ADDED from C:\WorkSpace\AndroidWorkSpace\Android_Project1\Project2Test\jingdong\src\main\AndroidManifest.xml:57:9-59:47
+	android:theme
+		ADDED from C:\WorkSpace\AndroidWorkSpace\Android_Project1\Project2Test\jingdong\src\main\AndroidManifest.xml:59:13-44
+	android:name
+		ADDED from C:\WorkSpace\AndroidWorkSpace\Android_Project1\Project2Test\jingdong\src\main\AndroidManifest.xml:58:13-51
+activity#com.project.jingdong.activities.Login_regActivity
+ADDED from C:\WorkSpace\AndroidWorkSpace\Android_Project1\Project2Test\jingdong\src\main\AndroidManifest.xml:60:9-62:47
+	android:theme
+		ADDED from C:\WorkSpace\AndroidWorkSpace\Android_Project1\Project2Test\jingdong\src\main\AndroidManifest.xml:62:13-44
+	android:name
+		ADDED from C:\WorkSpace\AndroidWorkSpace\Android_Project1\Project2Test\jingdong\src\main\AndroidManifest.xml:61:13-57
+activity#com.project.jingdong.activities.ProductsList
+ADDED from C:\WorkSpace\AndroidWorkSpace\Android_Project1\Project2Test\jingdong\src\main\AndroidManifest.xml:63:9-65:47
+	android:theme
+		ADDED from C:\WorkSpace\AndroidWorkSpace\Android_Project1\Project2Test\jingdong\src\main\AndroidManifest.xml:65:13-44
+	android:name
+		ADDED from C:\WorkSpace\AndroidWorkSpace\Android_Project1\Project2Test\jingdong\src\main\AndroidManifest.xml:64:13-52
+activity#com.project.jingdong.activities.ProductDetailActivity
+ADDED from C:\WorkSpace\AndroidWorkSpace\Android_Project1\Project2Test\jingdong\src\main\AndroidManifest.xml:66:9-68:47
+	android:theme
+		ADDED from C:\WorkSpace\AndroidWorkSpace\Android_Project1\Project2Test\jingdong\src\main\AndroidManifest.xml:68:13-44
+	android:name
+		ADDED from C:\WorkSpace\AndroidWorkSpace\Android_Project1\Project2Test\jingdong\src\main\AndroidManifest.xml:67:13-61
+activity#com.project.jingdong.activities.SearchGoodsActivity
+ADDED from C:\WorkSpace\AndroidWorkSpace\Android_Project1\Project2Test\jingdong\src\main\AndroidManifest.xml:69:9-71:47
+	android:theme
+		ADDED from C:\WorkSpace\AndroidWorkSpace\Android_Project1\Project2Test\jingdong\src\main\AndroidManifest.xml:71:13-44
+	android:name
+		ADDED from C:\WorkSpace\AndroidWorkSpace\Android_Project1\Project2Test\jingdong\src\main\AndroidManifest.xml:70:13-59
+activity#com.project.jingdong.activities.SearchDetailActivity
+ADDED from C:\WorkSpace\AndroidWorkSpace\Android_Project1\Project2Test\jingdong\src\main\AndroidManifest.xml:72:9-74:47
+	android:theme
+		ADDED from C:\WorkSpace\AndroidWorkSpace\Android_Project1\Project2Test\jingdong\src\main\AndroidManifest.xml:74:13-44
+	android:name
+		ADDED from C:\WorkSpace\AndroidWorkSpace\Android_Project1\Project2Test\jingdong\src\main\AndroidManifest.xml:73:13-60
+activity#com.project.jingdong.activities.ConfirmOrderActivity
+ADDED from C:\WorkSpace\AndroidWorkSpace\Android_Project1\Project2Test\jingdong\src\main\AndroidManifest.xml:75:9-77:47
+	android:theme
+		ADDED from C:\WorkSpace\AndroidWorkSpace\Android_Project1\Project2Test\jingdong\src\main\AndroidManifest.xml:77:13-44
+	android:name
+		ADDED from C:\WorkSpace\AndroidWorkSpace\Android_Project1\Project2Test\jingdong\src\main\AndroidManifest.xml:76:13-60
+activity#com.project.jingdong.LoginActivity
+ADDED from C:\WorkSpace\AndroidWorkSpace\Android_Project1\Project2Test\jingdong\src\main\AndroidManifest.xml:78:9-80:60
+	android:label
+		ADDED from C:\WorkSpace\AndroidWorkSpace\Android_Project1\Project2Test\jingdong\src\main\AndroidManifest.xml:80:13-57
+	android:name
+		ADDED from C:\WorkSpace\AndroidWorkSpace\Android_Project1\Project2Test\jingdong\src\main\AndroidManifest.xml:79:13-42
+activity#com.project.jingdong.activities.RegisterUserActivity
+ADDED from C:\WorkSpace\AndroidWorkSpace\Android_Project1\Project2Test\jingdong\src\main\AndroidManifest.xml:81:9-69
+	android:name
+		ADDED from C:\WorkSpace\AndroidWorkSpace\Android_Project1\Project2Test\jingdong\src\main\AndroidManifest.xml:81:19-66
+activity#com.project.jingdong.activities.ShippingAddressActivity
+ADDED from C:\WorkSpace\AndroidWorkSpace\Android_Project1\Project2Test\jingdong\src\main\AndroidManifest.xml:82:9-72
+	android:name
+		ADDED from C:\WorkSpace\AndroidWorkSpace\Android_Project1\Project2Test\jingdong\src\main\AndroidManifest.xml:82:19-69
+activity#com.project.jingdong.activities.AddNewShippingAddressActivity
+ADDED from C:\WorkSpace\AndroidWorkSpace\Android_Project1\Project2Test\jingdong\src\main\AndroidManifest.xml:83:9-78
+	android:name
+		ADDED from C:\WorkSpace\AndroidWorkSpace\Android_Project1\Project2Test\jingdong\src\main\AndroidManifest.xml:83:19-75
+activity#com.project.jingdong.activities.UpdateAddressActivity
+ADDED from C:\WorkSpace\AndroidWorkSpace\Android_Project1\Project2Test\jingdong\src\main\AndroidManifest.xml:84:9-70
+	android:name
+		ADDED from C:\WorkSpace\AndroidWorkSpace\Android_Project1\Project2Test\jingdong\src\main\AndroidManifest.xml:84:19-67
+activity#com.project.jingdong.activities.UserInfoActivity
+ADDED from C:\WorkSpace\AndroidWorkSpace\Android_Project1\Project2Test\jingdong\src\main\AndroidManifest.xml:85:9-65
+	android:name
+		ADDED from C:\WorkSpace\AndroidWorkSpace\Android_Project1\Project2Test\jingdong\src\main\AndroidManifest.xml:85:19-62
+activity#com.project.jingdong.activities.UpdateUserInfoActivity
+ADDED from C:\WorkSpace\AndroidWorkSpace\Android_Project1\Project2Test\jingdong\src\main\AndroidManifest.xml:86:9-80
+	android:name
+		ADDED from C:\WorkSpace\AndroidWorkSpace\Android_Project1\Project2Test\jingdong\src\main\AndroidManifest.xml:86:19-68
+uses-sdk
+INJECTED from C:\WorkSpace\AndroidWorkSpace\Android_Project1\Project2Test\jingdong\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\WorkSpace\AndroidWorkSpace\Android_Project1\Project2Test\jingdong\src\main\AndroidManifest.xml
+INJECTED from C:\WorkSpace\AndroidWorkSpace\Android_Project1\Project2Test\jingdong\src\main\AndroidManifest.xml
+MERGED from [com.youth.banner:banner:1.4.9] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\banner-1.4.9.aar\96c5f18acc89198d008d524bd2504f37\AndroidManifest.xml:7:5-9:41
+MERGED from [com.youth.banner:banner:1.4.9] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\banner-1.4.9.aar\96c5f18acc89198d008d524bd2504f37\AndroidManifest.xml:7:5-9:41
+MERGED from [com.jcodecraeer:xrecyclerview:1.3.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\xrecyclerview-1.3.2.aar\56ee64da55d0482b77b9e1cf12071620\AndroidManifest.xml:7:5-9:41
+MERGED from [com.jcodecraeer:xrecyclerview:1.3.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\xrecyclerview-1.3.2.aar\56ee64da55d0482b77b9e1cf12071620\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:design:23.4.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\design-23.4.0.aar\a2ac31b0c388e654062186b25a9633e6\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:design:23.4.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\design-23.4.0.aar\a2ac31b0c388e654062186b25a9633e6\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.0.0-alpha1.aar\5f07cd8bde2750038b78c464421f196a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.0.0-alpha1.aar\5f07cd8bde2750038b78c464421f196a\AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fresco:0.14.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\fresco-0.14.0.aar\d69bc89d3ffecfdeff8ef7a26cd94d0f\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:0.14.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\fresco-0.14.0.aar\d69bc89d3ffecfdeff8ef7a26cd94d0f\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:animated-gif:0.14.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\animated-gif-0.14.1.aar\a27cc0147a3217dcd66535671ae568d6\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:animated-gif:0.14.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\animated-gif-0.14.1.aar\a27cc0147a3217dcd66535671ae568d6\AndroidManifest.xml:5:5-7:41
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\rxandroid-2.0.1.aar\0d2270fc3cb15881f39210c2bc01d7da\AndroidManifest.xml:19:5-43
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\rxandroid-2.0.1.aar\0d2270fc3cb15881f39210c2bc01d7da\AndroidManifest.xml:19:5-43
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\7fce96b66860bb141db1027eb6eae85a\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\7fce96b66860bb141db1027eb6eae85a\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\bea4d01008d09c5772b3ad3b63e331a4\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\bea4d01008d09c5772b3ad3b63e331a4\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\bd904d5f61b2b5cb2fc4fd7b9be74724\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\bd904d5f61b2b5cb2fc4fd7b9be74724\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\cd2a1d8a3f78e3c7d522c05d7604e379\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\cd2a1d8a3f78e3c7d522c05d7604e379\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\f37cc4a5abbebefc536333665e49709c\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\f37cc4a5abbebefc536333665e49709c\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\495919806767042cf1a36cfbc19035f2\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\495919806767042cf1a36cfbc19035f2\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\d69eb630a57204f3e481b16933c9b797\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\d69eb630a57204f3e481b16933c9b797\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\86b19f019b5d1947d41383afb7265a75\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\86b19f019b5d1947d41383afb7265a75\AndroidManifest.xml:21:5-23:58
+MERGED from [com.facebook.fresco:animated-base:0.14.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\animated-base-0.14.1.aar\cbf075716cecf1930db07c36328e03cb\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:animated-base:0.14.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\animated-base-0.14.1.aar\cbf075716cecf1930db07c36328e03cb\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:0.14.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\imagepipeline-0.14.1.aar\309004598d7461ebfd6d45872e752984\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:0.14.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\imagepipeline-0.14.1.aar\309004598d7461ebfd6d45872e752984\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:0.14.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\imagepipeline-base-0.14.1.aar\6ec3571438093dcf7c59bdb82f64de55\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:0.14.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\imagepipeline-base-0.14.1.aar\6ec3571438093dcf7c59bdb82f64de55\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\d70b76b838c0d1de2eda560919bf9c3e\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\d70b76b838c0d1de2eda560919bf9c3e\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\4941741767794280bf35c32c620c8766\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\4941741767794280bf35c32c620c8766\AndroidManifest.xml:21:5-23:58
+MERGED from [com.facebook.fresco:drawee:0.14.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\drawee-0.14.0.aar\efcfaa38368cda0da5e6267a9b24f540\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:0.14.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\drawee-0.14.0.aar\efcfaa38368cda0da5e6267a9b24f540\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:0.14.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\fbcore-0.14.1.aar\7651c4bf9739c5b824a39860d33e8238\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:0.14.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\fbcore-0.14.1.aar\7651c4bf9739c5b824a39860d33e8238\AndroidManifest.xml:5:5-7:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\de1bd464f341740e1c75936ebf70096b\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\de1bd464f341740e1c75936ebf70096b\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\WorkSpace\AndroidWorkSpace\Android_Project1\Project2Test\jingdong\src\main\AndroidManifest.xml
+INJECTED from C:\WorkSpace\AndroidWorkSpace\Android_Project1\Project2Test\jingdong\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\7fce96b66860bb141db1027eb6eae85a\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from C:\WorkSpace\AndroidWorkSpace\Android_Project1\Project2Test\jingdong\src\main\AndroidManifest.xml
+		ADDED from C:\WorkSpace\AndroidWorkSpace\Android_Project1\Project2Test\jingdong\src\main\AndroidManifest.xml
+		INJECTED from C:\WorkSpace\AndroidWorkSpace\Android_Project1\Project2Test\jingdong\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\WorkSpace\AndroidWorkSpace\Android_Project1\Project2Test\jingdong\src\main\AndroidManifest.xml
+		ADDED from C:\WorkSpace\AndroidWorkSpace\Android_Project1\Project2Test\jingdong\src\main\AndroidManifest.xml
+		INJECTED from C:\WorkSpace\AndroidWorkSpace\Android_Project1\Project2Test\jingdong\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:recyclerview-v7:26.0.0-alpha1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.0.0-alpha1.aar\5f07cd8bde2750038b78c464421f196a\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\bd904d5f61b2b5cb2fc4fd7b9be74724\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\bd904d5f61b2b5cb2fc4fd7b9be74724\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\cd2a1d8a3f78e3c7d522c05d7604e379\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\cd2a1d8a3f78e3c7d522c05d7604e379\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\f37cc4a5abbebefc536333665e49709c\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\f37cc4a5abbebefc536333665e49709c\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\495919806767042cf1a36cfbc19035f2\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\495919806767042cf1a36cfbc19035f2\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\d69eb630a57204f3e481b16933c9b797\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\d69eb630a57204f3e481b16933c9b797\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\86b19f019b5d1947d41383afb7265a75\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\86b19f019b5d1947d41383afb7265a75\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\d70b76b838c0d1de2eda560919bf9c3e\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\d70b76b838c0d1de2eda560919bf9c3e\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\4941741767794280bf35c32c620c8766\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\4941741767794280bf35c32c620c8766\AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:recyclerview-v7:26.0.0-alpha1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.0.0-alpha1.aar\5f07cd8bde2750038b78c464421f196a\AndroidManifest.xml:24:9-38
+	android:name
+		ADDED from [com.android.support:recyclerview-v7:26.0.0-alpha1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.0.0-alpha1.aar\5f07cd8bde2750038b78c464421f196a\AndroidManifest.xml:23:9-47
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\de1bd464f341740e1c75936ebf70096b\AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\de1bd464f341740e1c75936ebf70096b\AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\de1bd464f341740e1c75936ebf70096b\AndroidManifest.xml:26:13-58

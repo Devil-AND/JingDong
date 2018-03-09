@@ -1,0 +1,4 @@
+#Fri Mar 09 18:54:14 CST 2018
+base.0=C\:\\WorkSpace\\AndroidWorkSpace\\Android_Project1\\Project2Test\\jingdong\\build\\intermediates\\transforms\\dex\\xiaomi\\release\\0
+path.0=classes.dex
+renamed.0=classes.dex
